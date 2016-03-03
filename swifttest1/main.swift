@@ -11,8 +11,8 @@ var a:Int,b:Int,c:Int
 a=100
 b=200
 c=a+b
-for var i in(1..<10){
-print("\(i)")
+for ch in "hello".characters{
+print(ch)
 }
 print("\(a)+\(b)=\(c)")
 
